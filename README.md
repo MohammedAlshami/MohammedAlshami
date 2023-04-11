@@ -49,10 +49,10 @@
 **UI/UX Design:**
 <p>
 <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-- 🧠 some of my designs projects 👇
-[Recipe Finder](https://choosealicense.com/licenses/mit/)
-[throw.](https://choosealicense.com/licenses/mit/)
-
+<br>
+- 🎨 Some of my design projects 👇
+  - [Recipe Finder](https://choosealicense.com/licenses/mit/)
+  - [throw.](https://choosealicense.com/licenses/mit/)
 </p>
 
 
