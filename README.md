@@ -52,6 +52,7 @@
 - 🎨 Some of my design projects 👇
   <br>
 [Recipe Finder](https://choosealicense.com/licenses/mit/)
+<br>
 [throw.](https://choosealicense.com/licenses/mit/)
 </p>
 
