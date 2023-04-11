@@ -6,7 +6,7 @@
 
 
 - 🎓 Software Engineering student at Universiti Tenaga Nasional (UNITEN)
-- 🏅 Top 7 Finalist at the Grand Finals for Hilti 2023 IT Competition (still ongoing)
+- 🏅 Top 7 Finalist at the Grand Finals for Hilti ITC 2023 Competition (still ongoing)
 - 💡 Like to explore new technologies and develop software solutions
 - 🎨 Passionate about UI/UX design and developing app designs
 - 🧠 Interested in machine learning and diffusion models
