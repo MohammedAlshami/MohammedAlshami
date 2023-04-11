@@ -49,6 +49,8 @@
 **UI/UX Design:**
 <p>
 <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  - 🎨 Developed various UI/UX design projects using Figma, such as designing a mobile app for a virtual bookstore [Example 1](https://www.example1.com) and creating a user-friendly dashboard for a fitness tracking app [Example 2](https://www.example2.com)
+
 </p>
 
 
