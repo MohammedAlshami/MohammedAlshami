@@ -52,7 +52,7 @@
 
 🎨 Some of my design projects 👇
   <br>
- - [throw.](https://www.figma.com/proto/zOOLxOKy2gmLex7tXho973/throw.?page-id=84%3A16938&node-id=84-18965&viewport=824%2C981%2C0.09&scaling=scale-down&starting-point-node-id=84%3A18965)    
+ - [throw.](https://www.figma.com/proto/zOOLxOKy2gmLex7tXho973/throw.?page-id=84%3A16938&node-id=84-18965&viewport=824%2C981%2C0.09&scaling=scale-down&starting-point-node-id=84%3A18965)   
  - [Recipe Finder](https://www.figma.com/file/YXkOKAszv64iH47bCC7XtC/Untitled?node-id=321%3A148&t=jD6S6m6Km7jU5rYj-1)
 
 
