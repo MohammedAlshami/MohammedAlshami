@@ -54,8 +54,7 @@
  - [throw.](https://www.figma.com/proto/zOOLxOKy2gmLex7tXho973/throw.?page-id=84%3A16938&node-id=84-18965&viewport=824%2C981%2C0.09&scaling=scale-down&starting-point-node-id=84%3A18965)   
  - [Recipe Finder](https://www.figma.com/file/YXkOKAszv64iH47bCC7XtC/Untitled?node-id=321%3A148&t=jD6S6m6Km7jU5rYj-1)
 
-You may checkout my other design project through this figma link: [Other Designs] (https://www.figma.com/file/Rpx1qbESuLcvA6Cq0u6E97/Portfolio?type=design&node-id=0%3A1&mode=design&t=my48a7LqTdjIzSg8-1)
-
+You may checkout my other design project through this figma link: [Other Designs](https://www.figma.com/file/Rpx1qbESuLcvA6Cq0u6E97/Portfolio?type=design&node-id=0%3A1&mode=design&t=my48a7LqTdjIzSg8-1)
 
 
 ### 🤝🏻 Get in Touch
